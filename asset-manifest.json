@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TRNRS/static/css/main.7b6e3c83.css",
-    "main.js": "/TRNRS/static/js/main.efd706f1.js",
+    "main.js": "/TRNRS/static/js/main.b5e78769.js",
     "static/js/787.025da8c5.chunk.js": "/TRNRS/static/js/787.025da8c5.chunk.js",
     "static/media/airmax-hero.jpg": "/TRNRS/static/media/airmax-hero.965a4bc880cdc000cfe6.jpg",
     "static/media/janowski-jump.jpg": "/TRNRS/static/media/janowski-jump.0986297278a66625d9e4.jpg",
@@ -12,11 +12,11 @@
     "static/media/Janowski-hero.jpg": "/TRNRS/static/media/Janowski-hero.ba28cd5ed1f48a98225b.jpg",
     "index.html": "/TRNRS/index.html",
     "main.7b6e3c83.css.map": "/TRNRS/static/css/main.7b6e3c83.css.map",
-    "main.efd706f1.js.map": "/TRNRS/static/js/main.efd706f1.js.map",
+    "main.b5e78769.js.map": "/TRNRS/static/js/main.b5e78769.js.map",
     "787.025da8c5.chunk.js.map": "/TRNRS/static/js/787.025da8c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b6e3c83.css",
-    "static/js/main.efd706f1.js"
+    "static/js/main.b5e78769.js"
   ]
 }
