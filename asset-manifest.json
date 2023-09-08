@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TRNRS/static/css/main.7b6e3c83.css",
-    "main.js": "/TRNRS/static/js/main.b5e78769.js",
+    "main.css": "/TRNRS/static/css/main.5571be1d.css",
+    "main.js": "/TRNRS/static/js/main.d004fa1f.js",
     "static/js/787.025da8c5.chunk.js": "/TRNRS/static/js/787.025da8c5.chunk.js",
     "static/media/airmax-hero.jpg": "/TRNRS/static/media/airmax-hero.965a4bc880cdc000cfe6.jpg",
     "static/media/janowski-jump.jpg": "/TRNRS/static/media/janowski-jump.0986297278a66625d9e4.jpg",
@@ -11,12 +11,12 @@
     "static/media/jump-cover.jpg": "/TRNRS/static/media/jump-cover.d9638934bf1d55360758.jpg",
     "static/media/Janowski-hero.jpg": "/TRNRS/static/media/Janowski-hero.ba28cd5ed1f48a98225b.jpg",
     "index.html": "/TRNRS/index.html",
-    "main.7b6e3c83.css.map": "/TRNRS/static/css/main.7b6e3c83.css.map",
-    "main.b5e78769.js.map": "/TRNRS/static/js/main.b5e78769.js.map",
+    "main.5571be1d.css.map": "/TRNRS/static/css/main.5571be1d.css.map",
+    "main.d004fa1f.js.map": "/TRNRS/static/js/main.d004fa1f.js.map",
     "787.025da8c5.chunk.js.map": "/TRNRS/static/js/787.025da8c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b6e3c83.css",
-    "static/js/main.b5e78769.js"
+    "static/css/main.5571be1d.css",
+    "static/js/main.d004fa1f.js"
   ]
 }
