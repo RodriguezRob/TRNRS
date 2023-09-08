@@ -20,9 +20,9 @@ function App() {
           <Route path="/products" Component={Products} />
           <Route path="/sign-up" Component={SignUp} />
         </Routes>
+        <Home />
+        <Footer />
       </Router>
-      <Home />
-      <Footer />
     </div>
   );
 }
