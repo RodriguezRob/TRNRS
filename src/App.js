@@ -6,7 +6,6 @@ import Home from "./components/pages/Home";
 import Services from './components/pages/Services';
 import Products from "./components/pages/Products";
 import SignUp from "./components/pages/SignUp";
-import Footer from "./components/Footer";
 
 
 function App() {
@@ -21,7 +20,6 @@ function App() {
           <Route path="/sign-up" Component={SignUp} />
         </Routes>
       </Router>
-      <Home />
     </div>
   );
 }
