@@ -11,7 +11,6 @@ import SignUp from "./components/pages/SignUp";
 function App() {
   return (
     <div>
-      <Router>
         <Navbar />
         <Routes>
           <Route path="/" exact Component={Home} />
@@ -19,7 +18,6 @@ function App() {
           <Route path="/products" Component={Products} />
           <Route path="/sign-up" Component={SignUp} />
         </Routes>
-      </Router>
     </div>
   );
 }
