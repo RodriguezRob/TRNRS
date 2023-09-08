@@ -100,18 +100,27 @@
   }
   
   @media only screen and (min-width: 1200px) {
+    .cards{
+      padding:2.5rem;
+    }
     .content_blog_container {
       width: 84%;
     }
   }
   
   @media only screen and (min-width: 1024px) {
+    .cards{
+      padding:2.5rem;
+    }
     .cards_items {
       display: flex;
     }
   }
   
   @media only screen and (max-width: 1024px) {
+    .cards{
+      padding:2.5rem;
+    }
     .cards_item {
       margin-bottom: 2rem;
     }
